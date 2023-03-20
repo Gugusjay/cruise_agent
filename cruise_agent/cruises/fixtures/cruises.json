@@ -1,0 +1,582 @@
+[
+{
+    "model": "cruises.ship",
+    "pk": 1,
+    "fields": {
+        "name": "Optimized secondary intranet",
+        "tonnage": 3500
+    }
+},
+{
+    "model": "cruises.ship",
+    "pk": 2,
+    "fields": {
+        "name": "Persistent attitude-oriented architecture",
+        "tonnage": 8700
+    }
+},
+{
+    "model": "cruises.ship",
+    "pk": 3,
+    "fields": {
+        "name": "Ergonomic bandwidth-monitored task-force",
+        "tonnage": 7000
+    }
+},
+{
+    "model": "cruises.ship",
+    "pk": 4,
+    "fields": {
+        "name": "Team-oriented client-server orchestration",
+        "tonnage": 200
+    }
+},
+{
+    "model": "cruises.ship",
+    "pk": 5,
+    "fields": {
+        "name": "Decentralized non-volatile monitoring",
+        "tonnage": 8200
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 1,
+    "fields": {
+        "ship_id": 1,
+        "name": "Trevor",
+        "beds": 3,
+        "deck": 2
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 2,
+    "fields": {
+        "ship_id": 1,
+        "name": "Heather",
+        "beds": 2,
+        "deck": 2
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 3,
+    "fields": {
+        "ship_id": 1,
+        "name": "Kristine",
+        "beds": 3,
+        "deck": 3
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 4,
+    "fields": {
+        "ship_id": 1,
+        "name": "Anthony",
+        "beds": 3,
+        "deck": 3
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 5,
+    "fields": {
+        "ship_id": 1,
+        "name": "Becky",
+        "beds": 1,
+        "deck": 2
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 6,
+    "fields": {
+        "ship_id": 1,
+        "name": "Jeremy",
+        "beds": 2,
+        "deck": 2
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 7,
+    "fields": {
+        "ship_id": 1,
+        "name": "Edgar",
+        "beds": 2,
+        "deck": 2
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 8,
+    "fields": {
+        "ship_id": 1,
+        "name": "Dana",
+        "beds": 2,
+        "deck": 1
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 9,
+    "fields": {
+        "ship_id": 1,
+        "name": "Warren",
+        "beds": 2,
+        "deck": 1
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 10,
+    "fields": {
+        "ship_id": 1,
+        "name": "Thomas",
+        "beds": 2,
+        "deck": 2
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 11,
+    "fields": {
+        "ship_id": 2,
+        "name": "Frank",
+        "beds": 2,
+        "deck": 1
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 12,
+    "fields": {
+        "ship_id": 2,
+        "name": "Tammie",
+        "beds": 2,
+        "deck": 3
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 13,
+    "fields": {
+        "ship_id": 2,
+        "name": "Ryan",
+        "beds": 2,
+        "deck": 2
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 14,
+    "fields": {
+        "ship_id": 2,
+        "name": "Donald",
+        "beds": 1,
+        "deck": 2
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 15,
+    "fields": {
+        "ship_id": 2,
+        "name": "Dennis",
+        "beds": 1,
+        "deck": 2
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 16,
+    "fields": {
+        "ship_id": 2,
+        "name": "David",
+        "beds": 2,
+        "deck": 2
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 17,
+    "fields": {
+        "ship_id": 2,
+        "name": "Vincent",
+        "beds": 3,
+        "deck": 3
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 18,
+    "fields": {
+        "ship_id": 2,
+        "name": "Margaret",
+        "beds": 2,
+        "deck": 1
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 19,
+    "fields": {
+        "ship_id": 2,
+        "name": "Vickie",
+        "beds": 2,
+        "deck": 2
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 20,
+    "fields": {
+        "ship_id": 2,
+        "name": "Angela",
+        "beds": 1,
+        "deck": 3
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 21,
+    "fields": {
+        "ship_id": 3,
+        "name": "David",
+        "beds": 1,
+        "deck": 2
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 22,
+    "fields": {
+        "ship_id": 3,
+        "name": "Marissa",
+        "beds": 1,
+        "deck": 1
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 23,
+    "fields": {
+        "ship_id": 3,
+        "name": "Adam",
+        "beds": 3,
+        "deck": 3
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 24,
+    "fields": {
+        "ship_id": 3,
+        "name": "Shelby",
+        "beds": 2,
+        "deck": 2
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 25,
+    "fields": {
+        "ship_id": 3,
+        "name": "Brett",
+        "beds": 3,
+        "deck": 1
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 26,
+    "fields": {
+        "ship_id": 3,
+        "name": "Steven",
+        "beds": 1,
+        "deck": 2
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 27,
+    "fields": {
+        "ship_id": 3,
+        "name": "Andrew",
+        "beds": 1,
+        "deck": 1
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 28,
+    "fields": {
+        "ship_id": 3,
+        "name": "Briana",
+        "beds": 1,
+        "deck": 2
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 29,
+    "fields": {
+        "ship_id": 3,
+        "name": "Christine",
+        "beds": 1,
+        "deck": 3
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 30,
+    "fields": {
+        "ship_id": 3,
+        "name": "Henry",
+        "beds": 1,
+        "deck": 3
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 31,
+    "fields": {
+        "ship_id": 4,
+        "name": "Adam",
+        "beds": 2,
+        "deck": 3
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 32,
+    "fields": {
+        "ship_id": 4,
+        "name": "Kimberly",
+        "beds": 3,
+        "deck": 2
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 33,
+    "fields": {
+        "ship_id": 4,
+        "name": "Melissa",
+        "beds": 2,
+        "deck": 1
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 34,
+    "fields": {
+        "ship_id": 4,
+        "name": "Nathan",
+        "beds": 2,
+        "deck": 2
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 35,
+    "fields": {
+        "ship_id": 4,
+        "name": "April",
+        "beds": 2,
+        "deck": 3
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 36,
+    "fields": {
+        "ship_id": 4,
+        "name": "John",
+        "beds": 2,
+        "deck": 1
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 37,
+    "fields": {
+        "ship_id": 4,
+        "name": "Jason",
+        "beds": 1,
+        "deck": 1
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 38,
+    "fields": {
+        "ship_id": 4,
+        "name": "Holly",
+        "beds": 3,
+        "deck": 3
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 39,
+    "fields": {
+        "ship_id": 4,
+        "name": "Cassidy",
+        "beds": 3,
+        "deck": 3
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 40,
+    "fields": {
+        "ship_id": 4,
+        "name": "Jessica",
+        "beds": 2,
+        "deck": 3
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 41,
+    "fields": {
+        "ship_id": 5,
+        "name": "Jennifer",
+        "beds": 1,
+        "deck": 3
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 42,
+    "fields": {
+        "ship_id": 5,
+        "name": "Kathleen",
+        "beds": 2,
+        "deck": 2
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 43,
+    "fields": {
+        "ship_id": 5,
+        "name": "Alicia",
+        "beds": 1,
+        "deck": 3
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 44,
+    "fields": {
+        "ship_id": 5,
+        "name": "Olivia",
+        "beds": 3,
+        "deck": 1
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 45,
+    "fields": {
+        "ship_id": 5,
+        "name": "Julie",
+        "beds": 1,
+        "deck": 2
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 46,
+    "fields": {
+        "ship_id": 5,
+        "name": "Hannah",
+        "beds": 2,
+        "deck": 2
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 47,
+    "fields": {
+        "ship_id": 5,
+        "name": "William",
+        "beds": 2,
+        "deck": 1
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 48,
+    "fields": {
+        "ship_id": 5,
+        "name": "Cameron",
+        "beds": 3,
+        "deck": 1
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 49,
+    "fields": {
+        "ship_id": 5,
+        "name": "Deborah",
+        "beds": 2,
+        "deck": 1
+    }
+},
+{
+    "model": "cruises.cabin",
+    "pk": 50,
+    "fields": {
+        "ship_id": 5,
+        "name": "Amber",
+        "beds": 3,
+        "deck": 3
+    }
+},
+{
+    "model": "cruises.cruise",
+    "pk": 1,
+    "fields": {
+        "ship_id": 1,
+        "name": "Jones and Sons"
+    }
+},
+{
+    "model": "cruises.cruise",
+    "pk": 2,
+    "fields": {
+        "ship_id": 2,
+        "name": "Willis Ltd"
+    }
+},
+{
+    "model": "cruises.cruise",
+    "pk": 3,
+    "fields": {
+        "ship_id": 3,
+        "name": "Carter, Day and Adams"
+    }
+},
+{
+    "model": "cruises.cruise",
+    "pk": 4,
+    "fields": {
+        "ship_id": 4,
+        "name": "Hayes-Turner"
+    }
+},
+{
+    "model": "cruises.cruise",
+    "pk": 5,
+    "fields": {
+        "ship_id": 5,
+        "name": "Davis Ltd"
+    }
+}
+]
